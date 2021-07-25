@@ -30,8 +30,7 @@ UPROPERTY and UFUNCTION reference for coding + web links
 pure C++ actors
 
 
+--------
   
   
-  
-
 Cheers … ; ] ,,,
