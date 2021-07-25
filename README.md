@@ -13,7 +13,7 @@ This application:
 
 > simulate direct and guided missile movement(linear) with customisable speed
 
-> C++ components
+> 6 actors on stage as 2 groups of guided and unguided
 
 > Using Blueprint and C++ in same actor
 
@@ -25,7 +25,7 @@ Delegates in C++
 
 UPROPERTY and UFUNCTION reference for coding + web links 
 
-6 actors on stage as 2 groups of guided and unguided
+C++ components
 
 pure C++ actors
 
