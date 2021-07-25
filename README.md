@@ -22,9 +22,13 @@ This application:
 Using:<b>
 
 Delegates in C++
+
 UPROPERTY and UFUNCTION reference for coding + web links 
+
 6 actors on stage as 2 groups of guided and unguided
+
 pure C++ actors
+
 
 
 Cheers … ; ] ,,,
