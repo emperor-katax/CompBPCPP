@@ -12,8 +12,11 @@ Home: www.kataxwork.com
 This application:
 
 > simulate direct and guided missile movement(linear) with customisable speed
+
 > C++ components
+
 > Using Blueprint and C++ in same actor
+
 > Reference code for development
 
 Using:<b>
