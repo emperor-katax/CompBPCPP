@@ -13,7 +13,7 @@ This application:
 
 > simulate direct and guided missile movement(linear) with customisable speed
 
-> 6 actors on stage as 2 groups of guided and unguided
+> 6 actors on stage: 3 Direct missle, 3 Guided missle
 
 > Using Blueprint and C++ in same actor
 
